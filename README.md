@@ -4,7 +4,7 @@ In this lab we will build a musical instrument that is controlled with a photore
 Our Theremin will use the following parts:
 - 10KΩ resistor
 - Photoresistor
-- 3 Jumper wires   
+- Jumper wires   
 
 Use the picture below to make sure you are using correct 10KΩ resistor.   
 ![](Theremin1.png)   
