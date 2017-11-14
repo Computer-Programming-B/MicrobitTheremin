@@ -5,6 +5,7 @@ Our Theremin will use the following parts:
 - 10KΩ resistor
 - Photoresistor
 - 3 Jumper wires   
+
 Use the picture below to make sure you are using correct 10KΩ resistor.   
 ![](Theremin1.png)   
 The photoresistor has two leads of equal length. It is shown below:   
