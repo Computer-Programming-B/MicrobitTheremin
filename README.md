@@ -22,3 +22,6 @@ Feel free to modify your Theremin in any way you wish. Have fun and be creative,
 
 ### Step 4: Submit your finished program
 Have your teacher or a TA verify that you have a working program. Submit your finished program by uploading the .sb file to Google classroom. You should be able to find it in *My Documents | Scratch Projects*. If you worked with a partner, each partner should submit a copy of the finished program to Google classroom.
+
+### Step 5: Save your circuit!
+We are going to use the same resistor and photoresistor conifiguration in the next lab
