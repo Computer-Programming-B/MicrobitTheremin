@@ -14,7 +14,8 @@ Use the following circuit diagram to construct the circuit. The direction of the
 ![](Theremin3.png)
 
 ### Step 2: Test the circuit
-TBD
+Test your circuit by using your hand to create a shadow over the photoresistor. A shadow should decrease the the value of the Analog0 sensor. You can display the value in a say block or just look at Analog0 in the sensors display.   
+![](Theremin4.png)
 
 ### Step 3: Write the program
 TBD   
