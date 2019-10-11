@@ -1,5 +1,5 @@
 # Build a Theremin like musical instrument
-In this lab we will build a musical instrument that is controlled with a photoresitor. The photoresistor will respond to the shadow of our hand, so we won't need to actually touch it to make it respond. This will create an instrument similar to a [Theremin](https://en.wikipedia.org/wiki/Theremin), an electronic musical instrument that is played without touching it.
+In this lab we will build a musical instrument that is controlled with a photo resistor. The photo resistor will respond to the shadow of our hand, so we won't need to actually touch it to make it respond. This will create an instrument similar to a [Theremin](https://en.wikipedia.org/wiki/Theremin), an electronic musical instrument that is played without touching it.
 ### Step 1: Build the circuit
 Our Theremin will use the following parts:
 - 10KΩ resistor
