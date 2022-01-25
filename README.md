@@ -2,7 +2,7 @@
 ![](ThereminPameliaStickley.jpg)    
 In this lab we will make a musical instrument that is controlled with the micro:bit light sensor. The light sensor will respond to the shadow of our hand, so we won't need to actually touch it to make it respond. This will create an instrument similar to a [Theremin](https://en.wikipedia.org/wiki/Theremin), an electronic musical instrument that is played without touching it.
 
-You may find slides 116 - 122 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing) helpful in completing this assignment.
+You may find slides 116 - 123 of the [slide presentation](https://docs.google.com/presentation/d/1aiGcnPn8uoCJdX8p7_qoI3Hh3_KOhUtFeB3Byw0tacA/edit?usp=sharing) helpful in completing this assignment.
 
 ### Step 1: Run this sample program
 
