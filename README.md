@@ -20,7 +20,7 @@ In the sample program the frequency is set to 440 for 1000 milliseconds. When yo
 ### Step 2: Suggested steps to completing the project
 1. Create a variable `freq` that stores the current light sensor reading from `display.read_light_level()`
 2. To get the frequency in the typical range of hearing, you could multiply it by 20 and add 200
-3. Call `music.pitch(freq, -1)`. The second argument `-1` makes the sound continue until this is a new call to `music.pitch()`
+3. Call `music.pitch(freq, -1)`. The second argument `-1` makes the sound continue until there is a new call to `music.pitch()`
 4. Adjust the amount you multiply and add to the frequency to match the light levels in the room
 5. Submit your code to google classroom. Since there is no visable aspect to this project, it is not necessary to submit a video of your program running.
 
